@@ -1,4 +1,4 @@
-Assingment1-Java.
+Assingment1-On-Java.
 
 https://ariful-web-eng.github.io/Assingment--On-Java/
 
