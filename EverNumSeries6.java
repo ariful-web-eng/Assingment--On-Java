@@ -10,7 +10,7 @@ public class EverNumSeries6 {
     int i, n;
 
     System.out.println("\nEnter Last number:");
-    n = input.nextInt(); // to take last number input
+    n = input.nextInt(); // to take last number input.
 
     input.close();
 
