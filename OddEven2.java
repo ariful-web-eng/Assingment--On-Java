@@ -13,9 +13,9 @@ public class OddEven2 {
     input.close();
 
     if (num % 2 == 0) { // Even odd cheek condition.
-      System.out.println("The number is a Even Number.");
+      System.out.println("The number is an Even Number.");
     } else {
-      System.out.println("The number is Odd number.");
+      System.out.println("The number is an Odd number.");
     }
 
   }
